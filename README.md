@@ -23,4 +23,3 @@ Kommandozeile:
 
     mvn package
 
-Icons liegen unter `src/main/resources/icons` (PNG für das Fenster, `app.ico` z.B. für eine Verknüpfung).
